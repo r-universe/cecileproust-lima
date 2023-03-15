@@ -8,3 +8,8 @@
 	url = https://github.com/cecileproust-lima/lcmm
 	shallow = true
 	registered = true
+[submodule "NormPsy"]
+	path = NormPsy
+	url = https://github.com/cecileproust-lima/normpsy
+	shallow = true
+	registered = true

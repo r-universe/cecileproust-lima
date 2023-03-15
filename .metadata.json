@@ -2,5 +2,9 @@
   {
     "package": "lcmm",
     "oncran": true
+  },
+  {
+    "package": "NormPsy",
+    "oncran": true
   }
 ]
