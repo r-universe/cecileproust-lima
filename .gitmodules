@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "lcmm"]
-	path = lcmm
-	url = https://github.com/cecileproust-lima/lcmm
 [submodule "NormPsy"]
 	path = NormPsy
 	url = https://github.com/cecileproust-lima/normpsy
+[submodule "lcmm"]
+	path = lcmm
+	url = https://github.com/cecileproust-lima/lcmm
